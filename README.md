@@ -24,15 +24,11 @@ yarn serve
 ## Architecture Logicielle
 
 1. **Front-End** (Vue.js)
-   - **Vue Router** 
 
 2. **Back-End** (PHP API REST)
 
-3. **Base de Données MySQL**
+3. **Base de Données** (MySQL) 
 
-4. **Serveur Web**
-   - **Serveur HTTP** 
-   - **Reverse Proxy** 
 
 ## Schéma d'Architecture
 
